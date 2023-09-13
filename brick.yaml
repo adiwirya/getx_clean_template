@@ -1,5 +1,5 @@
 name: getx_clean_template
-description: A masin brick to generate GetX Clean Template.
+description: A mason brick to generate GetX Clean Template.
 
 # The following defines the brick repository url.
 # Uncomment and update the following line before publishing the brick.
